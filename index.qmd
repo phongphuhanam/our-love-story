@@ -1,0 +1,32 @@
+---
+title: "Our love story"
+subtitle: "to be continue"
+format:
+  revealjs:
+    code-overflow: wrap
+    code-line-numbers: false
+    title-slide-attributes:
+      data-autoappear: '{"h1":["animate__flipInX, slow"],".subtitle":{"animation":"animate__fadeInDown", "speed":"faster", "split":"letters", "delay":"40", "container-delay":"1000"}}'
+    center: true
+    theme: dark
+    navigation-mode: vertical
+    transition: slide
+    background-transition: fade
+    controls-layout: bottom-right
+    chalkboard: false
+    menu: true
+    css: style.css
+    section-divs: false
+    link-external-newwindow: true
+    appearance:
+      autoappear: true
+      autoelements: {"ul li": "animate__fadeInLeft"}
+      appearparents: false
+
+revealjs-plugins:
+  - appearance
+
+---
+
+# TBD
+
